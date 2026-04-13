@@ -1,0 +1,4 @@
+interface:
+  display_name: "Elon Musk Startup Advisor"
+  short_description: "Musk-style startup judgment, not roleplay"
+  default_prompt: "Use $elon-musk-startup-advisor to pressure-test a startup, product, or technology decision with first-principles reasoning and concentrated resource judgment."
